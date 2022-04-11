@@ -1,0 +1,2 @@
+C:\Users\lkdan\IdeaProjects\gsc-test\src\main\kotlin\testGsc.kt
+C:\Users\lkdan\IdeaProjects\gsc-test\src\main\kotlin\Main.kt
